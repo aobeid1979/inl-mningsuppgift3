@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Update Film</title>
+</head>
+
+<body>
+    <header>
+        <h1>Update Film</h1>
+        <nav>
+            <a href="index.html" id="home-link">Home</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container">
+            <section id="updateFilmSection">
+                <h2></h2>
+                <hr>
+                <div id="film"></div>
+
+                <!-- Update form -->
+                <form id="update-Film">
+                    <h3>Update Film</h3>
+
+                    <label for="title">Title</label>
+                    <input type="text" id="title" name="title" required><br>
+
+                    <label for="releaseYear">Release Year</label>
+                    <input type="date" id="releaseYear" name="releaseYear" required><br>
+
+                    <label for="genre">Genre</label>
+                    <input type="text" id="genre" name="genre" required><br>
+
+                    <input type="submit" value="Update">
+                </form>
+            </section>
+        </div>
+    </main>
+
+    <script src="scripts/main.js"></script>
+    <script src="scripts/editthisfilm.js"></script>
+</body>
+
+</html>
