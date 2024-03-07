@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rAV4EoTez8FrWSwryBQgOEZaUuRc0wdSK7CTf5za5eKV0o2Kbt+DabrsgD+iO0+7ehNRQ6FrlgwnUuRYZlohcw==",
+  "dgSpecHash": "qmzWkc0nE3CqP6hYiCBMjrLVHKgLkTvK49jGt7gaXhzpielKgi5rbDePdoaflIKLsy8mbn0Gepfr8OvGGHalsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\dyn-web-2-inlamning-3-aobeid1979\\FilmApp3\\FilmApp3\\FilmApp3.csproj",
+  "projectFilePath": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\New folder\\inl-mningsuppgift3\\FilmApp3\\FilmApp3\\FilmApp3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amfo2\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\amfo2\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

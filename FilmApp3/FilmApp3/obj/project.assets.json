@@ -8680,11 +8680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\dyn-web-2-inlamning-3-aobeid1979\\FilmApp3\\FilmApp3\\FilmApp3.csproj",
+      "projectUniqueName": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\New folder\\inl-mningsuppgift3\\FilmApp3\\FilmApp3\\FilmApp3.csproj",
       "projectName": "FilmApp3",
-      "projectPath": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\dyn-web-2-inlamning-3-aobeid1979\\FilmApp3\\FilmApp3\\FilmApp3.csproj",
+      "projectPath": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\New folder\\inl-mningsuppgift3\\FilmApp3\\FilmApp3\\FilmApp3.csproj",
       "packagesPath": "C:\\Users\\amfo2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\dyn-web-2-inlamning-3-aobeid1979\\FilmApp3\\FilmApp3\\obj\\",
+      "outputPath": "C:\\Users\\amfo2\\OneDrive\\Desktop\\APIdemo\\New folder\\inl-mningsuppgift3\\FilmApp3\\FilmApp3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8712,6 +8712,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8778,7 +8783,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
